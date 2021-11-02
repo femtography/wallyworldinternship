@@ -14,9 +14,9 @@ Input file will be in .txt format.
 This script will work via the command line and was written in Python.
 You will need to provide the complete path of the input file (test file) as well as where you would like the output file to be located.
 
-  Example:
+  ###Example:
   
-  python script.py PC/your/complete/path/test.txt PC/lets/send/it/to/this/folder/
+  ####python script.py PC/your/complete/path/test.txt PC/lets/send/it/to/this/folder/
   
 Since the assignment asks for complete path to be returned and not printed, you will have to check the location specified to verify accuracy of script.
 Open up the output .txt file and verify that the results are provided as described in the instructions.
