@@ -48,7 +48,7 @@ def ticketAssignment(row, col, quantity):
     return tickets  + "\n"
 
 # Function that takes in all reservations and utilizes the ticketAssignment() function to complete. This function returns a list of all the reservations and their assigned tickets.
-# Edge cases and assumptions will skip reservation and continue to next reservation until at maximum capacity based on Health/Safety Standards.
+# Edge cases and breaking assumptions will skip that reservation and continue to next reservation until at maximum capacity based on Health/Safety Standards.
 def processReservations(lines):
     reservations = [];
     row = 0;
