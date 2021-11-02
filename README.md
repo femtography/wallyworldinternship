@@ -24,7 +24,7 @@ Open up the output .txt file and verify that the results are provided as describ
 ## Process:
 
 I started by creating the I/O features of the script, ensuring that I could extract, process, and return the data as was being requested.
-I then proceeded to create the reservation feature by breaking it up into two functions, one that assigned tickets to a reservation request and another to handle the overall process of managing all inputs.
+I then proceeded to create the reservation feature by breaking it up into two functions, one that assigned tickets to a reservation request and another to handle the overall process of managing all inputs/outputs.
 Finally, I used main() to pull all features together in the manner requested in the assignment. 
 
 ## Trade Offs:
